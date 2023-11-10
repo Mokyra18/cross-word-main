@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cross-words-main/static/js/main.caf30b01.js",
+    "index.html": "/cross-words-main/index.html",
+    "main.caf30b01.js.map": "/cross-words-main/static/js/main.caf30b01.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.caf30b01.js"
+  ]
+}
